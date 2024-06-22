@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735950685538",
+    "project_id": "ayurveda-d5805",
+    "storage_bucket": "ayurveda-d5805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735950685538:android:0400382862f6ddae41983b",
+        "android_client_info": {
+          "package_name": "com.example.healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArs90ToEQZV7yq4SJDdYNabPASQqfW9aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
